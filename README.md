@@ -5,7 +5,7 @@
 <div/>
   
 <div align="center">
-  <a href="https://github.com/Iure-Lima/Iure-Lima">
+  <a href="https://github.com/Iure-Lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iure-Lima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
